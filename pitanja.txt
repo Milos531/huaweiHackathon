@@ -1,0 +1,30 @@
+------------------------ Demograpichs:
+1. AGEG5YR - Fourteen-level age category
+2. SEX - Indicate sex of respondent
+3. EDUCA - What is the highest grade or year of school you completed? --> 
+4. INCOME2 -     Is your annual household income from all sources: (If respondent refuses at any income level, code "Refused.")
+5. Married - y/n
+6. work-type - "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
+7. residencetype - "Rural" or "Urban"
+------------------------ GenHealthQ:
+8. VisokPritisak - Y/N
+9. VisokHoleserol - Y/N
+10. TestHolesterol(poslednjih pet godina) - Y/N
+11. BMI - INT
+12. avg_glucose_level - average glucose level in blood
+13. Pusac - Multiple, "formerly smoked", "never smoked", "smokes" or "Unknown"*
+14. Stroke - Y/N
+15. SrcanaBolest(CHD, or MI) - Y/N
+16. FizickaAktivnost(poslednjih 30 dana) - Y/N
+17. Consume Fruit 1 or more times per day - Y/N
+18. Consume Vegetables 1 or more times per day - Y/N
+19. HeavyDrinker - Y/N - Men 14 drinks per week, Women 7 per week
+20. AnyHealthcare - Y/N
+21. NoDocbcCost - Y/N - Was there a time in the past 12 months when you needed to see a doctor but could not because of cost?
+------------------------ GeneralHealtMentalHealth: 
+22. GenHlth - Would you say that in general your health is: scale 1-5 1 = excellent 2 = very good 3 = good 4 = fair 5 = poor
+23. MentHlth - Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?
+24. PHYSHLTH - Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?
+25. DIFFWALK - Do you have serious difficulty walking or climbing stairs? - Y/N
+
+

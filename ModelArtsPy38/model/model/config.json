@@ -1,0 +1,5 @@
+{
+  "model_algorithm": "predict_analysis",
+  "model_type": "PyTorch",
+  "runtime": "python3.7"
+}

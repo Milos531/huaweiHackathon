@@ -1,0 +1,49 @@
+<h2>Register</h2>
+<table>
+    <tr>
+        <td>Firstname:</td>
+        <td>
+            <input type="text" name="firstname" [(ngModel)]="firstname">
+        </td>        
+    </tr>
+    <tr>
+        <td>Lastname:</td>
+        <td>
+            <input type="text" name="lastname" [(ngModel)]="lastname">
+        </td>        
+    </tr>
+    <tr>
+        <td>Username:</td>
+        <td>
+            <input type="text" name="username" [(ngModel)]="username">
+        </td>        
+    </tr>
+    <tr>
+        <td>Password:</td>
+        <td>
+            <input type="text" name="password" [(ngModel)]="password">
+        </td>        
+    </tr>
+    <tr>
+        <td>EMail:</td>
+        <td>
+            <input type="text" name="email" [(ngModel)]="email">
+        </td>        
+    </tr>
+    <tr>
+        <td>Type:</td>
+        <td>
+            <select name = "type" [(ngModel)] = "type">
+                <option value = "patient">Patient</option>
+                <option value = "doctor">Doctor</option>
+            </select>
+        </td>        
+    </tr>
+    <tr>
+        
+        <td colspan="2">
+            <button (click)="register()">Register</button>
+        </td>        
+    </tr>
+</table>
+{{message}}
